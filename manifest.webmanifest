@@ -1,0 +1,17 @@
+{
+  "name": "ROLLS - The Roll Goods APP",
+  "short_name": "ROLLS",
+  "description": "Offline price, quantity and roll geometry calculator for textiles, nonwovens and films.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1015",
+  "theme_color": "#0b1015",
+  "lang": "en",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

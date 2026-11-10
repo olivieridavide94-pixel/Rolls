@@ -1,0 +1,22 @@
+ROLLS PWA - iPhone installation
+
+IMPORTANT
+A PWA must be opened from an HTTPS website at least once. Opening index.html directly from the Files app does not install the service worker.
+
+Deployment
+Upload all files in this package, preserving the folder structure, to any HTTPS static host such as GitHub Pages, Cloudflare Pages, Netlify or an internal HTTPS web server.
+
+Install on iPhone
+1. Open the HTTPS address in Safari.
+2. Wait a few seconds for the first load to finish.
+3. Tap Share.
+4. Tap Add to Home Screen.
+5. Enable Open as Web App if shown.
+6. Tap Add.
+7. Open ROLLS once while online, then test it with Airplane Mode enabled.
+
+Files required on the server
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icons folder
