@@ -1,22 +1,23 @@
-ROLLS PWA - iPhone installation
+ROLLS iPhone PWA v4.7
 
-IMPORTANT
-A PWA must be opened from an HTTPS website at least once. Opening index.html directly from the Files app does not install the service worker.
+This package contains the iPhone version of the latest desktop build, including all calculators, saved calculations, presets, settings, About page, offline storage, test method notes, Roll Build Factor, 3/5/6-inch cores, and the latest Roll Preview.
 
-Deployment
-Upload all files in this package, preserving the folder structure, to any HTTPS static host such as GitHub Pages, Cloudflare Pages, Netlify or an internal HTTPS web server.
+UPDATE THE EXISTING GITHUB PAGES APP
+1. Open the Rolls repository on GitHub.
+2. Delete the old published app files, or overwrite files with the same names.
+3. Upload the CONTENTS of this package, not the ZIP itself:
+   - index.html
+   - manifest.webmanifest
+   - service-worker.js
+   - assets folder
+   - icons folder
+4. Commit the changes to main.
+5. Wait for GitHub Pages deployment to complete.
 
-Install on iPhone
-1. Open the HTTPS address in Safari.
-2. Wait a few seconds for the first load to finish.
-3. Tap Share.
-4. Tap Add to Home Screen.
-5. Enable Open as Web App if shown.
-6. Tap Add.
-7. Open ROLLS once while online, then test it with Airplane Mode enabled.
+REFRESH THE INSTALLED IPHONE APP
+1. Open the GitHub Pages address in Safari once.
+2. If an older version remains, remove the old ROLLS icon from the Home Screen.
+3. In Safari, reload the page and then use Share > Add to Home Screen > Open as Web App > Add.
+4. Open ROLLS once online, then test with Airplane Mode.
 
-Files required on the server
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icons folder
+All saved calculations and presets use local browser storage. Removing website data may delete those locally saved records.
