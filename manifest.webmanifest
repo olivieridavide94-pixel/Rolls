@@ -1,17 +1,1 @@
-{
-  "name": "ROLLS - The Roll Goods APP",
-  "short_name": "ROLLS",
-  "description": "Offline price, quantity and roll calculator for roll goods.",
-  "id": "./",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait-primary",
-  "background_color": "#edf3f8",
-  "theme_color": "#08213a",
-  "lang": "en",
-  "icons": [
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
-  ]
-}
+{"name":"ROLLS - The Roll Goods APP","short_name":"ROLLS","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait-primary","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}

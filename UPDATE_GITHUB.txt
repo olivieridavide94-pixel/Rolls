@@ -1,0 +1,10 @@
+ROLLS iPhone PWA v4.8 - Logo & Header Fix
+
+Fixes:
+- iPhone Home Screen icon now uses a white background so the original black/navy/green logo has the correct contrast.
+- Top in-app logo uses contain sizing with safe-area padding and is no longer cropped behind the iPhone status bar.
+- Theme/status-bar background changed to white.
+
+GitHub update:
+Replace index.html, manifest.webmanifest, service-worker.js, assets/ and icons/ with the contents of this package, then commit to main.
+After deployment, delete the old ROLLS Home Screen icon, open the site in Safari once, then Add to Home Screen again.
