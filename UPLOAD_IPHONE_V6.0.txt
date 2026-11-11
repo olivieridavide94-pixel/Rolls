@@ -1,0 +1,15 @@
+ROLLS iPhone v6.0 Laminates
+
+Upload these six files to the ROOT of the GitHub Rolls repository:
+- index.html
+- ROLLS-manifest-v60.webmanifest
+- ROLLS-service-worker-v60.js
+- ROLLS-icon-v60-180.png
+- ROLLS-icon-v60-192.png
+- ROLLS-icon-v60-512.png
+
+Commit: Publish ROLLS iPhone v6.0 Laminates
+
+After Pages deployment is green, first open in Safari:
+https://olivieridavide94-pixel.github.io/Rolls/?v=60
+Check Price, Quantity, Roll and Laminates before deleting the currently installed Home Screen icon. Only then Add to Home Screen.
