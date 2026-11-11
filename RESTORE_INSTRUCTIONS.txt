@@ -1,0 +1,12 @@
+ROLLS iPhone - RESTORE v4.8
+
+Upload/replace these items on GitHub main:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- assets folder
+- icons folder
+
+Commit message: Restore ROLLS iPhone v4.8
+Wait for GitHub Pages deployment to turn green.
+Then on iPhone delete the existing ROLLS Home Screen icon, open the Pages URL in Safari, reload, and Add to Home Screen again.
