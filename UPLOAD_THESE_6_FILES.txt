@@ -1,0 +1,18 @@
+ROLLS CLEAN REPAIR v5.0
+
+Upload the six app files in this folder to the ROOT of the GitHub repository:
+1. index.html
+2. ROLLS-manifest-v50.webmanifest
+3. ROLLS-service-worker-v50.js
+4. ROLLS-icon-white-v50-180.png
+5. ROLLS-icon-white-v50-192.png
+6. ROLLS-icon-white-v50-512.png
+
+No assets folder and no icons folder are needed by this repaired version.
+Existing old files/folders can stay: the repaired index.html does not reference them.
+
+After commit and successful Pages deployment:
+- delete the old ROLLS icon from iPhone Home Screen;
+- open https://olivieridavide94-pixel.github.io/Rolls/?v=50 in Safari;
+- reload once;
+- Share > Add to Home Screen.

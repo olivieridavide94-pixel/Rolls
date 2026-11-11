@@ -1,0 +1,27 @@
+{
+  "name": "ROLLS - The Roll Goods APP",
+  "short_name": "ROLLS",
+  "description": "Offline roll goods calculator",
+  "id": "./?v=50",
+  "start_url": "./index.html?v=50",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "ROLLS-icon-white-v50-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "ROLLS-icon-white-v50-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
