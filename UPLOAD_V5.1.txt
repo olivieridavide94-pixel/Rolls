@@ -1,0 +1,13 @@
+ROLLS COMPLETE v5.1
+
+Upload these 6 app files to the ROOT of the GitHub Rolls repository:
+- index.html
+- ROLLS-manifest-v51.webmanifest
+- ROLLS-service-worker-v51.js
+- ROLLS-icon-white-v51-180.png
+- ROLLS-icon-white-v51-192.png
+- ROLLS-icon-white-v51-512.png
+
+Commit message: Publish ROLLS complete v5.1
+Old files may remain; v5.1 uses unique filenames.
+After deployment: delete old iPhone Home icon, open https://olivieridavide94-pixel.github.io/Rolls/?v=51 in Safari, reload once, Add to Home Screen.
