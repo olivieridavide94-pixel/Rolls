@@ -1,0 +1,5 @@
+ROLLS v5.5 - EXACT USER LOGO
+This build uses the exact logo image uploaded by the user, without recoloring, filtering, tracing or reconstruction.
+Upload to GitHub root: index.html, ROLLS-manifest-v55.webmanifest, ROLLS-service-worker-v55.js, and the three ROLLS-exact-icon-v55 PNG files.
+Commit: Publish ROLLS v5.5 exact logo
+After green deployment, open https://olivieridavide94-pixel.github.io/Rolls/?v=55 in Safari.
