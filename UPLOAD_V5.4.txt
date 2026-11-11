@@ -1,0 +1,13 @@
+ROLLS v5.4 - PC LOGO EDITION
+Upload these six files to GitHub repository ROOT:
+index.html
+ROLLS-manifest-v54.webmanifest
+ROLLS-service-worker-v54.js
+ROLLS-PC-icon-v54-180.png
+ROLLS-PC-icon-v54-192.png
+ROLLS-PC-icon-v54-512.png
+
+Commit: Publish ROLLS v5.4 PC logo
+After Pages deployment is green, open:
+https://olivieridavide94-pixel.github.io/Rolls/?v=54
+First verify in Safari. Then delete old Home icon and Add to Home Screen again.
